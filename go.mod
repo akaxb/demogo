@@ -1,4 +1,4 @@
-module github.com/akaxb/uuid
+module github.com/akaxb/demogo
 
 go 1.19
 
